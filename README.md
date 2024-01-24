@@ -1,8 +1,16 @@
 # GO ARGS
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/josark2005/args.svg)](https://pkg.go.dev/github.com/josark2005/args)
+
 A simple tool for delivering arguements.
 
 ## Usage
+
+### Get Package
+
+```
+go get github.com/josark2005/args
+```
 
 ### Initialize
 
